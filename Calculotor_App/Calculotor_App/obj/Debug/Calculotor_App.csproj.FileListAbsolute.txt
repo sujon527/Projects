@@ -1,0 +1,11 @@
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\bin\Debug\Calculotor_App.exe.config
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\bin\Debug\Calculotor_App.exe
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\bin\Debug\Calculotor_App.pdb
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.csproj.AssemblyReference.cache
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.csproj.SuggestedBindingRedirects.cache
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.Form1.resources
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.Properties.Resources.resources
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.csproj.GenerateResource.cache
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.csproj.CoreCompileInputs.cache
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.exe
+F:\Ostad\Projects\Calculotor_App\Calculotor_App\obj\Debug\Calculotor_App.pdb
